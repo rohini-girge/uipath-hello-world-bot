@@ -1,2 +1,10 @@
 # uipath-hello-world-bot
-Simple UiPath bot that opens Notepad and writes "Hello world".
+This is a beginner RPA automation project built using UiPath Studio.
+## Functionality
+- Opens Windows Notepad
+- Types "Hello world" automatically
+## Tools used
+- UiPath Studio
+- Windows Notepad
+## Purpose
+This project was created to practice basic automation using UiPath.
